@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @ronpeter
-- 📫 reach me at hi@letscreate.digital
+- 👋  Hi, I’m @ronpeter
+- 📫  reach me at hi@letscreate.digital
